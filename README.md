@@ -1,18 +1,11 @@
-# Salesforce DX Project: Next Steps
+# Salesforce Local Dev Template
+This template is designed to help you quickly set up and work with Salesforce Local Dev for Lightning Web Component (LWC) Development. It is a pre-configured SFDX project that includes the necessary scratch org definition and a basic structure for Local Dev Preview.
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## Getting Started
+Before you can run a real-time preview of your app or site, make sure you have [installed and enabled your Local Dev](https://developer.salesforce.com/docs/platform/lwc/guide/get-started-test-components.html)
 
-## How Do You Plan to Deploy Your Changes?
-
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
-
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## Project Overview:
+This template includes the following key components:
+* Scratch Org Definition: Pre-configured for Local Dev.
+* Local Dev Preview App: A sample Lightning App to quickly preview your LWC components.
+* Local Dev Page: A custom Lightning Page where you can drop your LWC components for testing.
