@@ -11,4 +11,4 @@ This template includes the following key components:
 * **Local Dev Page**: A custom Lightning Page where you can drop your LWC components for testing.
 
   
-![## Snippet](https://github.com/sasidhar-chavva/salesforce-local-dev-template/blob/master/Sample_Snippet.jpg)
+![alt text](https://github.com/sasidhar-chavva/salesforce-local-dev-template/blob/master/Sample_Snippet.jpg)
