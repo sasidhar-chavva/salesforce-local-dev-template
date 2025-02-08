@@ -9,4 +9,4 @@ This template includes the following key components:
 * **Scratch Org Definition**: Pre-configured for Local Dev.
 * **Local Dev Preview App**: A sample Lightning App to quickly preview your LWC components.
 * **Local Dev Page**: A custom Lightning Page where you can drop your LWC components for testing.
-[## Snippet](https://github.com/sasidhar-chavva/salesforce-local-dev-template/blob/master/Sample_Snippet.jpg)
+![## Snippet](https://github.com/sasidhar-chavva/salesforce-local-dev-template/blob/master/Sample_Snippet.jpg)
