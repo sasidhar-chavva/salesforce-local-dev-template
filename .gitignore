@@ -43,8 +43,3 @@ $RECYCLE.BIN/
 **/__pycache__/
 **/.venv/
 **/venv/
-
-# User Added
-**/reports/
-**/reportTypes/
-**/dashboards/
